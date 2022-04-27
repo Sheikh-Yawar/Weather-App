@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+An Aesthetic Weather app with awesome Ui,dope refresh and and a automatic light/dark theme which gets activated based on your local time.
 
 ## Getting Started
 
